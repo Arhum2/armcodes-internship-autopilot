@@ -1,29 +1,68 @@
 # ARMcodes Internship Autopilot
 
-Software internships and co-ops in **Canada and the US**, pulled straight from company job boards, plus the setup to
-have an AI agent (Meta's **Muse**) fill in applications for you.
+Software internships and co-ops in **Canada and the US**, and an AI agent (Meta's **Muse**) that fills in the
+applications for you.
 
-## Quick start (let an AI set you up)
-Have [Claude Code](https://claude.com/claude-code) or Codex? Then:
+## Pick how you want to start
+
+| | 🚀 Option A: Just a prompt | 🛠️ Option B: Full setup |
+| --- | --- | --- |
+| Time | About 2 minutes | About 15 minutes |
+| You need | Muse and your resume | Muse, GitHub, and optionally Claude Code or Codex |
+| Your files and application log | Stay in your Muse chat | Saved in your own private GitHub repo |
+| Jobs | The list below | The list below, your own filtered search, or your own links |
+
+## 🚀 Option A: Just a prompt
+
+1. Open **Muse** and start a new chat.
+2. Attach your **resume** (PDF).
+3. **Copy the prompt below** (button at the top right of the box), paste it, and send.
+
+That's it. Muse asks you a few questions, finds matching jobs and starts filling them in.
+
+```
+Help me apply to software internships using my attached resume.
+
+JOB LIST: https://github.com/Arhum2/armcodes-internship-autopilot
+
+FIRST, ask me these in one message and wait for my answers:
+1. Which terms? (Winter 2027, Summer 2027, other)
+2. Which locations will you accept?
+3. When do you graduate, from where, in what program?
+4. For each country you are applying in: are you legally authorized to work there, and will you need visa sponsorship now or in the future?
+5. Anything you want me to skip?
+6. Anything not on your resume that I should know?
+
+THEN show me the 10 best matches and start on the first.
+
+RULES
+- Use only facts from my resume and my answers. Never invent or embellish anything. If you don't know an answer, ask me.
+- Always ask me about: salary, start dates, relocation, security clearance, legal questions, and "I confirm" statements.
+- For voluntary demographic questions choose "prefer not to say" unless I tell you otherwise.
+- Read each posting's requirements first. If I clearly don't qualify (such as the graduation window or sponsorship), skip it and say why.
+- Before submitting, show me every question with your answer and wait for me to say "go". Keep doing this until I tell you to stop reviewing.
+- If you hit a CAPTCHA, a login or account signup, or a blocked page, tell me and move to the next job. Don't try to get around it, and don't ask me to type passwords into this chat.
+- Never pay anything or give bank or government ID numbers.
+- Only count a job as applied when the site shows a confirmation. Keep a running list: company, role, result, link. Never apply to the same job twice.
+```
+
+**Next time:** open the same chat and say *"Find new jobs on the list and keep going."*
+
+## 🛠️ Option B: Full setup
+
+**Let an AI do it with you** (Claude Code or Codex):
 ```
 git clone https://github.com/Arhum2/armcodes-internship-autopilot
 cd armcodes-internship-autopilot
 claude        # or: codex
 ```
-and type **`set me up`**. It asks you a few questions, builds your private files, your job list and your Muse prompt,
-and walks you through the last few steps. Use this list, scrape your own, or bring your own links.
+Then type **`set me up`**. It asks you a few questions, builds your private files, your job list and your Muse prompt,
+and walks you through the last few steps.
 
-## Or set it up by hand
-1. **[SETUP.md](SETUP.md)**: about 15 minutes.
-2. **[MUSE-PROMPT.md](MUSE-PROMPT.md)**: the instructions you give Muse. Fill in the blanks.
-3. Pick jobs from the list below, or let Muse work through it.
+**Or do it by hand:** follow [SETUP.md](SETUP.md) and use [MUSE-PROMPT.md](MUSE-PROMPT.md).
 
 > 🔒 **Keep your resume and personal details in your own private repo**, not in this one or a fork of it (forks of a
-> public repo are public too). The setup walks you through it.
-
-## How it works
-- Muse fills in the forms and shows you its answers, so you can give them a quick look before it hits submit.
-- When it runs into a CAPTCHA, a login, or a question only you can answer, it hands that one back to you and moves on.
+> public repo are public too).
 
 ## Open roles
 
@@ -35,6 +74,7 @@ dates and work eligibility vary.
 | Company | Role | Location | Added | Apply |
 | --- | --- | --- | --- | --- |
 | Cohere | Machine Learning Intern/Co-op (Winter 2027) | Canada / Europe / United States / United Kingdom | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b) |
+| Anduril Industries | Winter 2027 Software Engineer Co-op | Quincy, Massachusetts, United States | 2026-11-25 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007) |
 | Astranis | Embedded Software Developer, Network/Payload Intern (Winter 2027) | San Francisco | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704571006) |
 | Astranis | Flight Software Intern (Winter 2027) | San Francisco | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704595006) |
 | Astranis | Software Defined Radio Hardware Intern (Winter 2027) | San Francisco | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4716087006) |
@@ -106,6 +146,10 @@ dates and work eligibility vary.
 | Stripe | Master's Machine Learning Engineer, Intern | Toronto | 2026-11-25 | [Apply](https://stripe.com/jobs/search?gh_jid=8333122) |
 | Tower Research Capital | Stagiaire en machine learning / Machine Learning Intern | Montreal | 2026-11-25 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=7077280) |
 | Airbnb | Software Engineering Intern (BS/MS) | San Francisco, California | 2026-11-25 | [Apply](https://careers.airbnb.com/positions/8360478?gh_jid=8360478) |
+| Anduril Industries | 2027 Firmware Engineer Intern | Costa Mesa, California, United States | 2026-11-25 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007) |
+| Anduril Industries | 2027 Flight Software Engineer Intern | Costa Mesa, California, United States | 2026-11-25 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007) |
+| Anduril Industries | 2027 Machine Learning Engineer Intern | Santa Ana, California, United States | 2026-11-25 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007) |
+| Anduril Industries | 2027 Software Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2026-11-25 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) |
 | AppLovin | Platform Partnerships Intern | Palo Alto, CA | 2026-11-25 | [Apply](https://boards.greenhouse.io/applovin/jobs/4730428006?gh_jid=4730428006) |
 | Coinbase | Machine Learning Engineer Intern | Hybrid - San Francisco, CA | 2026-11-25 | [Apply](https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441) |
 | Coinbase | Software Engineer Intern | Hybrid - San Francisco, CA | 2026-11-25 | [Apply](https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315) |
