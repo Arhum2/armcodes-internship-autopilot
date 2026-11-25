@@ -1,0 +1,12 @@
+# Safety net: personal files must never be committed to this public repo.
+*.pdf
+*.docx
+results.txt
+my-*
+private/
+experience-bank.md
+eeo-answers.md
+!templates/experience-bank.md
+!templates/eeo-answers.md
+*.json
+!jobs.json
