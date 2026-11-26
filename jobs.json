@@ -113,6 +113,14 @@
  },
  {
   "company": "Coinbase",
+  "title": "Security Engineer Intern",
+  "location": "Hybrid - New York, NY",
+  "url": "https://www.coinbase.com/careers/positions/8415869?gh_jid=8415869",
+  "term": "Other terms",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Coinbase",
   "title": "Software Engineer Intern",
   "location": "Hybrid - San Francisco, CA",
   "url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
@@ -362,7 +370,7 @@
  {
   "company": "Neuralink",
   "title": "Machine Learning Engineer Intern",
-  "location": "South San Francisco, California, United States",
+  "location": "Austin, Texas, United States; South San Francisco, California, United States",
   "url": "https://boards.greenhouse.io/neuralink/jobs/6594261003?gh_jid=6594261003",
   "term": "Other terms",
   "added": "2026-11-25"
@@ -530,16 +538,16 @@
  {
   "company": "Stripe",
   "title": "Master's Machine Learning Engineer, Intern",
-  "location": "San Francisco, New York City, Seattle",
-  "url": "https://stripe.com/jobs/search?gh_jid=8333074",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8333122",
   "term": "Other terms",
   "added": "2026-11-25"
  },
  {
   "company": "Stripe",
   "title": "Master's Machine Learning Engineer, Intern",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8333122",
+  "location": "San Francisco, New York City, Seattle",
+  "url": "https://stripe.com/jobs/search?gh_jid=8333074",
   "term": "Other terms",
   "added": "2026-11-25"
  },
@@ -954,6 +962,14 @@
  {
   "company": "Rocket Lab Corporation",
   "title": "Ground Systems Engineering Intern Spring 2027",
+  "location": "Stennis Space Center, MS",
+  "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8007204003",
+  "term": "Other terms",
+  "added": "2026-11-25"
+ },
+ {
+  "company": "Rocket Lab Corporation",
+  "title": "Ground Systems Engineering Intern Spring 2027",
   "location": "Middle River, MD",
   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8042094003",
   "term": "Other terms",
@@ -961,10 +977,10 @@
  },
  {
   "company": "Rocket Lab Corporation",
-  "title": "Ground Systems Engineering Intern Spring 2027",
-  "location": "Stennis Space Center, MS",
-  "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8007204003",
-  "term": "Other terms",
+  "title": "Ground Systems Engineering Intern Summer 2027",
+  "location": "Middle River, MD",
+  "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8042092003",
+  "term": "Summer 2027",
   "added": "2026-11-25"
  },
  {
@@ -977,9 +993,9 @@
  },
  {
   "company": "Rocket Lab Corporation",
-  "title": "Ground Systems Engineering Intern Summer 2027",
-  "location": "Middle River, MD",
-  "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8042092003",
+  "title": "Systems Engineering Intern Summer 2027",
+  "location": "Chantilly, VA",
+  "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990272003",
   "term": "Summer 2027",
   "added": "2026-11-25"
  },
@@ -996,14 +1012,6 @@
   "title": "Systems Engineering Intern Summer 2027",
   "location": "Tucson, AZ",
   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990270003",
-  "term": "Summer 2027",
-  "added": "2026-11-25"
- },
- {
-  "company": "Rocket Lab Corporation",
-  "title": "Systems Engineering Intern Summer 2027",
-  "location": "Chantilly, VA",
-  "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990272003",
   "term": "Summer 2027",
   "added": "2026-11-25"
  },
@@ -1122,16 +1130,16 @@
  {
   "company": "Sigma Computing",
   "title": "Software Engineering Intern (Summer 2027)",
-  "location": "New York, NY",
-  "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/8001295003",
+  "location": "San Francisco, CA",
+  "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003",
   "term": "Summer 2027",
   "added": "2026-11-25"
  },
  {
   "company": "Sigma Computing",
   "title": "Software Engineering Intern (Summer 2027)",
-  "location": "San Francisco, CA",
-  "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003",
+  "location": "New York, NY",
+  "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/8001295003",
   "term": "Summer 2027",
   "added": "2026-11-25"
  },
@@ -1521,11 +1529,27 @@
  },
  {
   "company": "Zoox",
+  "title": "Supply Chain AI Intern [Summer 2027]",
+  "location": "Foster City, CA",
+  "url": "https://jobs.lever.co/zoox/1a41e141-7e0b-4474-b4eb-bf89032bd7a8",
+  "term": "Summer 2027",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Zoox",
   "title": "Systems & Safety Engineering Intern [Summer 2027]",
   "location": "Foster City, CA",
   "url": "https://jobs.lever.co/zoox/442845d1-33b0-4801-a553-7fd9b806e46f",
   "term": "Summer 2027",
   "added": "2026-11-25"
+ },
+ {
+  "company": "Veeva",
+  "title": "Intern Software Engineer (Summer 2027)",
+  "location": "Massachusetts - Boston",
+  "url": "https://jobs.lever.co/veeva/4738ae75-9f7b-4082-b129-69fb82f6d7b2",
+  "term": "Summer 2027",
+  "added": "2026-11-26"
  },
  {
   "company": "Benchling",
@@ -1937,18 +1961,354 @@
  },
  {
   "company": "Intel",
-  "title": "Signal integrity AI enabling intern",
-  "location": "US, Arizona, Phoenix",
-  "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Signal-integrity-AI-enabling-intern_JR0289302",
-  "term": "Other terms",
-  "added": "2026-11-25"
- },
- {
-  "company": "Intel",
   "title": "Intern – Software Asset Management Analyst",
   "location": "Costa Rica, San Jose",
   "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Intern---Software-Asset-Management-Analyst_JR0289430",
   "term": "Other terms",
   "added": "2026-11-25"
+ },
+ {
+  "company": "Hp",
+  "title": "Software Internship Roles - HP Solutions (HPS)",
+  "location": "Spring Texas United States of America",
+  "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Internship-Roles---HP-Solutions--HPS-_3167906-1",
+  "term": "Other terms",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Hp",
+  "title": "Personal Systems Engineering Internship",
+  "location": "Spring, Texas, United States of America",
+  "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Personal-Systems-Engineering-Internship_3171404-1",
+  "term": "Other terms",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Paypal",
+  "title": "Data Scientist Intern - Summer 2027",
+  "location": "San Jose, California, United States of America",
+  "url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Data-Scientist-Intern---Summer-2027_R0138582",
+  "term": "Summer 2027",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Paypal",
+  "title": "Mobile Engineer Intern - Summer 2027",
+  "location": "San Jose California United States of America",
+  "url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Mobile-Engineer-Intern---Summer-2027_R0138583",
+  "term": "Summer 2027",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Paypal",
+  "title": "Software Engineer Intern - Summer 2027",
+  "location": "San Jose California United States of America",
+  "url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern---Summer-2027_R0138586",
+  "term": "Summer 2027",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Paypal",
+  "title": "Machine Learning Engineer Intern - Summer 2027",
+  "location": "San Jose, California, United States of America",
+  "url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer-Intern---Summer-2027_R0138581",
+  "term": "Summer 2027",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Analogdevices",
+  "title": "Information Technology Intern",
+  "location": "US MA Wilmington",
+  "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Information-Technology-Intern_R269552",
+  "term": "Other terms",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Analogdevices",
+  "title": "Embedded Software Engineer Intern",
+  "location": "US MA Wilmington",
+  "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Embedded-Software-Engineer-Intern_R266132",
+  "term": "Other terms",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Analogdevices",
+  "title": "Software Tools Engineering Intern",
+  "location": "United Kingdom, Edinburgh, SC, Freer",
+  "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Software-Tools-Engineering-Intern_R267128",
+  "term": "Other terms",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Analogdevices",
+  "title": "Embedded Software Engineer Intern",
+  "location": "US, TX, Austin, Plaza on the Lake",
+  "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-TX-Austin-Plaza-on-the-Lake/Embedded-Software-Engineer-Intern_R269548",
+  "term": "Other terms",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Analogdevices",
+  "title": "Embedded Systems Co-Op",
+  "location": "US, MA, Boston",
+  "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Embedded-Systems-Co-Op_R267689",
+  "term": "Other terms",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Analogdevices",
+  "title": "DevOps Co-Op",
+  "location": "US, MA, Boston",
+  "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/DevOps-Co-Op_R267690",
+  "term": "Other terms",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Analogdevices",
+  "title": "Machine Learning for Computational Sensing Research Intern",
+  "location": "US, MA, Boston",
+  "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Machine-Learning-for-Computational-Sensing-Research-Intern_R268371",
+  "term": "Other terms",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Marvell",
+  "title": "Applied AI/ML Research Scientist Intern",
+  "location": "Santa Clara, CA",
+  "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Applied-AI-ML-Research-Scientist-Intern_2603847-1",
+  "term": "Other terms",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Kla",
+  "title": "Software Intern",
+  "location": "Milpitas, CA",
+  "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Intern_2642954-1",
+  "term": "Other terms",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Kla",
+  "title": "Firmware Intern",
+  "location": "Milpitas, CA",
+  "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Firmware-Intern_2642154-1",
+  "term": "Other terms",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Kla",
+  "title": "Software Engineering Intern",
+  "location": "Milpitas, CA",
+  "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern_2641572-1",
+  "term": "Other terms",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Kla",
+  "title": "Software Engineer Intern",
+  "location": "Milpitas, CA",
+  "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineer-Intern_2642721-1",
+  "term": "Other terms",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Kla",
+  "title": "Machine Learning Engineer Intern",
+  "location": "Milpitas, CA",
+  "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Engineering-Intern_2641562-1",
+  "term": "Other terms",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Kla",
+  "title": "Optical Systems Engineering Intern",
+  "location": "Milpitas, CA",
+  "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Optical-Systems-Student-Engineer_2641844-1",
+  "term": "Other terms",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Kla",
+  "title": "Software Applications Engineering Intern",
+  "location": "Milpitas, CA",
+  "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Applications-Engineering-Intern_2642337-1",
+  "term": "Other terms",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Kla",
+  "title": "Software Application Engineer Intern",
+  "location": "Austin TX",
+  "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Austin-TX/Software-Application-Engineer-Intern_2643260-1",
+  "term": "Other terms",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Kla",
+  "title": "Software Engineering Intern (C++, Unix)",
+  "location": "Milpitas, CA",
+  "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1",
+  "term": "Other terms",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Kla",
+  "title": "Software Engineer (AI/ML) Intern",
+  "location": "Austin TX",
+  "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Austin-TX/Software-Engineer--AI-ML--Intern_2642125-1",
+  "term": "Other terms",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Kla",
+  "title": "Mechatronics/Systems Engineering Internship",
+  "location": "Milpitas, CA",
+  "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Mechatronics-Systems-Engineering-Internship_2641532-1",
+  "term": "Other terms",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Kla",
+  "title": "Algorithm Engineering Intern (AI, Computer Vision & Software Engineering)",
+  "location": "Milpitas, CA",
+  "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-2",
+  "term": "Other terms",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Kla",
+  "title": "Software Engineering Intern – AI/ML for Diagnostics & Calibration",
+  "location": "Milpitas, CA",
+  "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129-1",
+  "term": "Other terms",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Motorolasolutions",
+  "title": "Software Engineer Intern - Summer 2027",
+  "location": "Greater Chicago Area",
+  "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Greater-Chicago-Area/Software-Engineer-Intern---Summer-2027_R68679",
+  "term": "Summer 2027",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Motorolasolutions",
+  "title": "Software Engineering Intern - 2027 Internship Program",
+  "location": "Salt Lake City, UT (UT17)",
+  "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Salt-Lake-City-UT-UT17/Software-Engineering-Intern---2027-Internship-Program_R70950",
+  "term": "Other terms",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Motorolasolutions",
+  "title": "Software System Technologist Intern (Summer 2027 Internship)",
+  "location": "Allen, TX (TX139)",
+  "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Software-System-Technologist-Intern--Summer-2027-Internship-_R70511",
+  "term": "Summer 2027",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Motorolasolutions",
+  "title": "Software System Technologist Intern (Summer 2027 Internship)",
+  "location": "Chicago, IL",
+  "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Software-System-Technologist-Intern--Summer-2027-Internship-_R70839",
+  "term": "Summer 2027",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Motorolasolutions",
+  "title": "Systems Integration Engineering Intern (Summer 2027)",
+  "location": "Greater Chicago Area",
+  "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Greater-Chicago-Area/Systems-Integration-Engineering-Intern--Summer-2027-_R68894",
+  "term": "Summer 2027",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Motorolasolutions",
+  "title": "Business Systems Analyst Internship Summer 2027",
+  "location": "Chicago, IL",
+  "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Business-Systems-Analyst-Internship-Summer-2027_R68572",
+  "term": "Summer 2027",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Motorolasolutions",
+  "title": "Presales Systems Engineer - Summer 2027 Internship",
+  "location": "Allen, TX (TX139), More...",
+  "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Presales-Systems-Engineer---Summer-2027-Internship_R69875",
+  "term": "Summer 2027",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Motorolasolutions",
+  "title": "Presales Systems Engineer - Summer 2027 Internship",
+  "location": "Brentwood, TN, More...",
+  "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Brentwood-TN/Presales-Systems-Engineer---Summer-2027_R70006",
+  "term": "Summer 2027",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Motorolasolutions",
+  "title": "North America (NA) Systems Engineering Operations Internship - 2027",
+  "location": "Chicago, IL, More...",
+  "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/North-America--NA--Systems-Engineering-Operations-Internship----2027_R70657",
+  "term": "Other terms",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Motorolasolutions",
+  "title": "Mission Critical Networks Software Engineer - Summer 2027 Internship",
+  "location": "Schaumburg, IL, More...",
+  "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---Summer-2027-Internship_R70631",
+  "term": "Summer 2027",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Ciena",
+  "title": "WaveLogic Software Intern (Summer 2027)",
+  "location": "Atlanta",
+  "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Intern--Summer-2027-_R031695",
+  "term": "Summer 2027",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Ciena",
+  "title": "WaveLogic Software Intern Spring 2027",
+  "location": "Atlanta",
+  "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Intern-Spring-2027_R031692",
+  "term": "Other terms",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Ciena",
+  "title": "Software Engineer (Security) - Intern (Winter 2027)",
+  "location": "Atlanta",
+  "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926",
+  "term": "Winter 2027",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Ciena",
+  "title": "AI/ML Layout Engineering Intern (Winter 2027)",
+  "location": "Ottawa",
+  "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI-ML-Layout-Engineering-Intern--Winter-2027-_R032102",
+  "term": "Winter 2027",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Ciena",
+  "title": "Hardware Characterization Automation Co-op (Winter 2027)",
+  "location": "Ottawa",
+  "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Characterization-Automation-Co-op--Winter-2027-_R032014",
+  "term": "Winter 2027",
+  "added": "2026-11-26"
+ },
+ {
+  "company": "Ciena",
+  "title": "Stagiaire en développement logiciel - Software developer Intern/Co-op",
+  "location": "Quebec",
+  "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Software-developer-Intern-Co-op_R032046",
+  "term": "Other terms",
+  "added": "2026-11-26"
  }
 ]
