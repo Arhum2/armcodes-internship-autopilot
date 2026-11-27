@@ -73,8 +73,6 @@ dates and work eligibility vary.
 
 | Company | Role | Location | Added | Apply |
 | --- | --- | --- | --- | --- |
-| Ciena | AI/ML Layout Engineering Intern (Winter 2027) | Ottawa | 2026-11-26 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI-ML-Layout-Engineering-Intern--Winter-2027-_R032102) |
-| Ciena | Hardware Characterization Automation Co-op (Winter 2027) | Ottawa | 2026-11-26 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Characterization-Automation-Co-op--Winter-2027-_R032014) |
 | Cohere | Machine Learning Intern/Co-op (Winter 2027) | Canada / Europe / United States / United Kingdom | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b) |
 | Anduril Industries | Winter 2027 Software Engineer Co-op | Quincy, Massachusetts, United States | 2026-11-25 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007) |
 | Anduril Industries | Winter 2027 Systems Engineer Co-op | Quincy, Massachusetts, United States | 2026-11-25 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007) |
@@ -82,7 +80,6 @@ dates and work eligibility vary.
 | Astranis | Embedded Software Developer, Network/Payload Intern (Winter 2027) | San Francisco | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704571006) |
 | Astranis | Flight Software Intern (Winter 2027) | San Francisco | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704595006) |
 | Astranis | Software Defined Radio Hardware Intern (Winter 2027) | San Francisco | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4716087006) |
-| Ciena | Software Engineer (Security) - Intern (Winter 2027) | Atlanta | 2026-11-26 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926) |
 | Faire | Applied AI/ML Scientist, Intern - Winter 2027 | San Francisco, CA | 2026-11-25 | [Apply](https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002) |
 | Notion | Software Engineer Intern, Mobile (Winter 2027) | San Francisco, California / New York, New York | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7) |
 | Twitch | Undergrad Software Engineering Intern (Grad Year: Winter 2027) | San Francisco, CA | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8886605002) |
@@ -114,7 +111,6 @@ dates and work eligibility vary.
 | Bandwidth | Software Engineer Intern - Summer 2027 | Raleigh, NC | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/8414444) |
 | Belvederetrading | Quantitative Trading Intern - Summer 2027 | Chicago, Illinois | 2026-11-25 | [Apply](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab) |
 | Benchling | Software Engineer, Intern (Summer 2027) | San Francisco, CA | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/benchling/96370d1b-d35e-446b-8e26-dce088860099) |
-| Ciena | WaveLogic Software Intern (Summer 2027) | Atlanta | 2026-11-26 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Intern--Summer-2027-_R031695) |
 | DoorDash USA | Machine Learning Intern (Masters) - Summer 2027 | San Francisco, CA; Sunnyvale, CA ; New York City, NY; Seattle, WA | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8204111) |
 | DoorDash USA | Software Engineer, Intern (Summer 2027) - US | New York, NY; San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) |
 | DoorDash USA | Software Engineer, Intern - Labs (Summer 2027) | San Francisco, CA; Sunnyvale, CA | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8263774) |
@@ -139,14 +135,6 @@ dates and work eligibility vary.
 | Lyft | Data Science Intern, Algorithms (Summer 2027 - SF/NYC) | New York, NY | 2026-11-25 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) |
 | Lyft | Data Science Intern, Algorithms (Summer 2027 - SF/NYC) | San Francisco, CA | 2026-11-25 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002) |
 | Lyft | Software Engineer Intern, Backend (Summer 2027 - SF) | San Francisco, CA | 2026-11-25 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002) |
-| Motorolasolutions | Business Systems Analyst Internship Summer 2027 | Chicago, IL | 2026-11-26 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Business-Systems-Analyst-Internship-Summer-2027_R68572) |
-| Motorolasolutions | Mission Critical Networks Software Engineer - Summer 2027 Internship | Schaumburg, IL, More... | 2026-11-26 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---Summer-2027-Internship_R70631) |
-| Motorolasolutions | Presales Systems Engineer - Summer 2027 Internship | Allen, TX (TX139), More... | 2026-11-26 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Presales-Systems-Engineer---Summer-2027-Internship_R69875) |
-| Motorolasolutions | Presales Systems Engineer - Summer 2027 Internship | Brentwood, TN, More... | 2026-11-26 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Brentwood-TN/Presales-Systems-Engineer---Summer-2027_R70006) |
-| Motorolasolutions | Software Engineer Intern - Summer 2027 | Greater Chicago Area | 2026-11-26 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Greater-Chicago-Area/Software-Engineer-Intern---Summer-2027_R68679) |
-| Motorolasolutions | Software System Technologist Intern (Summer 2027 Internship) | Allen, TX (TX139) | 2026-11-26 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Software-System-Technologist-Intern--Summer-2027-Internship-_R70511) |
-| Motorolasolutions | Software System Technologist Intern (Summer 2027 Internship) | Chicago, IL | 2026-11-26 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Software-System-Technologist-Intern--Summer-2027-Internship-_R70839) |
-| Motorolasolutions | Systems Integration Engineering Intern (Summer 2027) | Greater Chicago Area | 2026-11-26 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Greater-Chicago-Area/Systems-Integration-Engineering-Intern--Summer-2027-_R68894) |
 | NBCUniversal | Advertising & Partnerships: Data Science Internship – Summer 2027 | New York, NY, United States | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160689930) |
 | NBCUniversal | Media Tech: Cybersecurity, Governance & Security Engineering Internships – Summer 2027 | New York, NY, United States | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160654878) |
 | NBCUniversal | Media Tech: Data, AI & Machine Learning Internships – Summer 2027 | Universal City, CA, United States | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160649935) |
@@ -159,10 +147,6 @@ dates and work eligibility vary.
 | Notion | Software Engineer Intern (Summer 2027) | San Francisco, California / New York, New York | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c) |
 | Notion | Software Engineering Intern, Frontend (Summer 2027) | New York, New York / San Francisco, California | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413) |
 | Notion | Software Engineering Intern, iOS (Summer 2027) | New York, New York | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947) |
-| Paypal | Data Scientist Intern - Summer 2027 | San Jose, California, United States of America | 2026-11-26 | [Apply](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Data-Scientist-Intern---Summer-2027_R0138582) |
-| Paypal | Machine Learning Engineer Intern - Summer 2027 | San Jose, California, United States of America | 2026-11-26 | [Apply](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer-Intern---Summer-2027_R0138581) |
-| Paypal | Mobile Engineer Intern - Summer 2027 | San Jose California United States of America | 2026-11-26 | [Apply](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Mobile-Engineer-Intern---Summer-2027_R0138583) |
-| Paypal | Software Engineer Intern - Summer 2027 | San Jose California United States of America | 2026-11-26 | [Apply](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern---Summer-2027_R0138586) |
 | Point72 | 2027 Summer Internship – Software Engineer | New York, NY | 2026-11-25 | [Apply](https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002) |
 | Point72 | Summer 2027 Quantitative Research Internship | New York | 2026-11-25 | [Apply](https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002) |
 | Riot Games | Data Engineering Intern - Summer 2027 | Los Angeles, USA | 2026-11-25 | [Apply](https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716) |
@@ -203,7 +187,6 @@ dates and work eligibility vary.
 
 | Company | Role | Location | Added | Apply |
 | --- | --- | --- | --- | --- |
-| Ciena | Stagiaire en développement logiciel - Software developer Intern/Co-op | Quebec | 2026-11-26 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Software-developer-Intern-Co-op_R032046) |
 | Databricks | Software Engineering Intern (2027) | Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada | 2026-11-25 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002) |
 | Pinterest | Machine Learning Intern 2027 (Toronto) | Toronto, ON, CA | 2026-11-25 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138080) |
 | Pinterest | Software Engineering Intern 2027 (Toronto) | Toronto, ON, CA | 2026-11-25 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138039) |
@@ -211,13 +194,6 @@ dates and work eligibility vary.
 | Tower Research Capital | Stagiaire en machine learning / Machine Learning Intern | Montreal | 2026-11-25 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=7077280) |
 | Airbnb | Software Engineering Intern (BS/MS) | San Francisco, California | 2026-11-25 | [Apply](https://careers.airbnb.com/positions/8360478?gh_jid=8360478) |
 | Amperity | Intern - Software Development Engineer | Seattle, WA | 2026-11-25 | [Apply](https://amperity.com/careers?gh_jid=8393990#openpositions) |
-| Analogdevices | DevOps Co-Op | US, MA, Boston | 2026-11-26 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/DevOps-Co-Op_R267690) |
-| Analogdevices | Embedded Software Engineer Intern | US MA Wilmington | 2026-11-26 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Embedded-Software-Engineer-Intern_R266132) |
-| Analogdevices | Embedded Software Engineer Intern | US, TX, Austin, Plaza on the Lake | 2026-11-26 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-TX-Austin-Plaza-on-the-Lake/Embedded-Software-Engineer-Intern_R269548) |
-| Analogdevices | Embedded Systems Co-Op | US, MA, Boston | 2026-11-26 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Embedded-Systems-Co-Op_R267689) |
-| Analogdevices | Information Technology Intern | US MA Wilmington | 2026-11-26 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Information-Technology-Intern_R269552) |
-| Analogdevices | Machine Learning for Computational Sensing Research Intern | US, MA, Boston | 2026-11-26 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Machine-Learning-for-Computational-Sensing-Research-Intern_R268371) |
-| Analogdevices | Software Tools Engineering Intern | United Kingdom, Edinburgh, SC, Freer | 2026-11-26 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Software-Tools-Engineering-Intern_R267128) |
 | Anduril Industries | 2027 Business Systems Engineer Intern | Costa Mesa, California, United States | 2026-11-25 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007) |
 | Anduril Industries | 2027 Engineering Systems Intern | Costa Mesa, California, United States | 2026-11-25 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5302147007?gh_jid=5302147007) |
 | Anduril Industries | 2027 Firmware Engineer Intern | Costa Mesa, California, United States | 2026-11-25 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007) |
@@ -229,10 +205,8 @@ dates and work eligibility vary.
 | Belvederetrading | Quantitative Trading Intern - Winter Quarter 2027 | Chicago, Illinois | 2026-11-25 | [Apply](https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0) |
 | Bosch Group | AI Research Intern – Time Series Foundation Models | Sunnyvale, California, United States | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000161339309) |
 | Bosch Group | Internship in AI-Driven Innovation Management | Leinfelden-Echterdingen, BW, DE | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000163456519) |
-| Bosch Group | IT Systems Engineering Intern (19 hours per week) | Roseville, CA, United States | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000158620079) |
 | Bosch Group | Motorsport Software and Data Analytics Graduate Intern | Farmington Hills, MI, United States | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000160208440) |
 | Braze | Intern, Software Engineering | New York City | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/braze/jobs/8301086) |
-| Ciena | WaveLogic Software Intern Spring 2027 | Atlanta | 2026-11-26 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Intern-Spring-2027_R031692) |
 | Coinbase | Forward Deployed Engineer Intern (HR Technology) | Hybrid - New York, NY | 2026-11-25 | [Apply](https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510) |
 | Coinbase | Machine Learning Engineer Intern | Hybrid - San Francisco, CA | 2026-11-25 | [Apply](https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441) |
 | Coinbase | Security Engineer Intern | Hybrid - New York, NY | 2026-11-26 | [Apply](https://www.coinbase.com/careers/positions/8415869?gh_jid=8415869) |
@@ -246,8 +220,6 @@ dates and work eligibility vary.
 | Exa | Software Engineer, Intern | San Francisco, California | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16) |
 | Figma | Data Engineer Intern (2027) | San Francisco, CA • New York, NY | 2026-11-25 | [Apply](https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004) |
 | Hex | AI Engineer Intern | San Francisco | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/hex/f2562cd7-abf2-434b-85ff-0a5016fbf0d6) |
-| Hp | Personal Systems Engineering Internship | Spring, Texas, United States of America | 2026-11-26 | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Personal-Systems-Engineering-Internship_3171404-1) |
-| Hp | Software Internship Roles - HP Solutions (HPS) | Spring Texas United States of America | 2026-11-26 | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Internship-Roles---HP-Solutions--HPS-_3167906-1) |
 | Intel | AI Hardware Engineering Intern | US California Santa Clara | 2026-11-25 | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Hardware-Engineering-Intern_JR0287533) |
 | Intel | Intern – Software Asset Management Analyst | Costa Rica, San Jose | 2026-11-25 | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Intern---Software-Asset-Management-Analyst_JR0289430) |
 | Intel | Research Scientist Intern - Graphics, ML | Virtual US | 2026-11-25 | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525) |
@@ -259,21 +231,7 @@ dates and work eligibility vary.
 | Jump Trading | Campus Quantitative Trader (Intern) | Chicago; New York | 2026-11-25 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7848371) |
 | Jump Trading | Campus Systems Engineer (Intern) | Chicago | 2026-11-25 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8007788) |
 | Jump Trading | Campus UI Software Engineer (Intern) | Chicago | 2026-11-25 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8003019) |
-| Kla | Algorithm Engineering Intern (AI, Computer Vision & Software Engineering) | Milpitas, CA | 2026-11-26 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-2) |
-| Kla | Firmware Intern | Milpitas, CA | 2026-11-26 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Firmware-Intern_2642154-1) |
-| Kla | Machine Learning Engineer Intern | Milpitas, CA | 2026-11-26 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Engineering-Intern_2641562-1) |
-| Kla | Mechatronics/Systems Engineering Internship | Milpitas, CA | 2026-11-26 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Mechatronics-Systems-Engineering-Internship_2641532-1) |
-| Kla | Optical Systems Engineering Intern | Milpitas, CA | 2026-11-26 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Optical-Systems-Student-Engineer_2641844-1) |
-| Kla | Software Application Engineer Intern | Austin TX | 2026-11-26 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Austin-TX/Software-Application-Engineer-Intern_2643260-1) |
-| Kla | Software Applications Engineering Intern | Milpitas, CA | 2026-11-26 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Applications-Engineering-Intern_2642337-1) |
-| Kla | Software Engineer (AI/ML) Intern | Austin TX | 2026-11-26 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Austin-TX/Software-Engineer--AI-ML--Intern_2642125-1) |
-| Kla | Software Engineer Intern | Milpitas, CA | 2026-11-26 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineer-Intern_2642721-1) |
-| Kla | Software Engineering Intern | Milpitas, CA | 2026-11-26 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern_2641572-1) |
-| Kla | Software Engineering Intern (C++, Unix) | Milpitas, CA | 2026-11-26 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1) |
-| Kla | Software Engineering Intern – AI/ML for Diagnostics & Calibration | Milpitas, CA | 2026-11-26 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129-1) |
-| Kla | Software Intern | Milpitas, CA | 2026-11-26 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Intern_2642954-1) |
 | Leland | AI Education Intern | Leland HQ - Lehi, UT | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/leland/94347c0b-273b-4c17-9987-563912629633) |
-| Marvell | Applied AI/ML Research Scientist Intern | Santa Clara, CA | 2026-11-26 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Applied-AI-ML-Research-Scientist-Intern_2603847-1) |
 | Matchgroup | Android Engineer Intern | Los Angeles, California | 2026-11-25 | [Apply](https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d) |
 | Matchgroup | Backend Engineer Intern | Palo Alto, California / Los Angeles, California | 2026-11-25 | [Apply](https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3) |
 | Matchgroup | Data Scientist Intern | San Francisco, California | 2026-11-25 | [Apply](https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff) |
@@ -284,8 +242,6 @@ dates and work eligibility vary.
 | Modal | ML Research Intern | New York / San Francisco | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a) |
 | MongoDB | 2027 - AI and People Transformation Intern, NYC | New York City | 2026-11-25 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8346138) |
 | MongoDB | 2027 - Software Engineering Intern, AMER | Austin; New York City; San Francisco | 2026-11-25 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8209134) |
-| Motorolasolutions | North America (NA) Systems Engineering Operations Internship - 2027 | Chicago, IL, More... | 2026-11-26 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/North-America--NA--Systems-Engineering-Operations-Internship----2027_R70657) |
-| Motorolasolutions | Software Engineering Intern - 2027 Internship Program | Salt Lake City, UT (UT17) | 2026-11-26 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Salt-Lake-City-UT-UT17/Software-Engineering-Intern---2027-Internship-Program_R70950) |
 | Neuralink | Embedded Software Engineer Intern, Implant Embedded Systems | Austin, Texas, United States; South San Francisco, California, United States | 2026-11-25 | [Apply](https://boards.greenhouse.io/neuralink/jobs/6283663003?gh_jid=6283663003) |
 | Neuralink | Firmware Engineer Intern, Robotics and Surgery Engineering | South San Francisco, California, United States | 2026-11-25 | [Apply](https://boards.greenhouse.io/neuralink/jobs/6648992003?gh_jid=6648992003) |
 | Neuralink | Machine Learning Engineer Intern | Austin, Texas, United States; South San Francisco, California, United States | 2026-11-25 | [Apply](https://boards.greenhouse.io/neuralink/jobs/6594261003?gh_jid=6594261003) |
@@ -341,8 +297,8 @@ dates and work eligibility vary.
 | Ramp | Software Engineering Intern, Backend | New York, NY (HQ) | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/ramp/acf6b28d-767f-483f-8ff2-114620cd7e04) |
 | Ramp | Software Engineering Intern, Frontend | New York, NY (HQ) | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74) |
 | Ramp | Software Engineering Intern, iOS | New York, NY (HQ) | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9) |
-| Rocket Lab Corporation | Ground Systems Engineering Intern Spring 2027 | Stennis Space Center, MS | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8007204003) |
 | Rocket Lab Corporation | Ground Systems Engineering Intern Spring 2027 | Middle River, MD | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8042094003) |
+| Rocket Lab Corporation | Ground Systems Engineering Intern Spring 2027 | Stennis Space Center, MS | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8007204003) |
 | Roku | Software Engineer Intern, AI Engineering | San Jose, California | 2026-11-25 | [Apply](https://www.weareroku.com/jobs/8258241?gh_jid=8258241) |
 | Samsara | Software Engineering Internship - San Francisco | San Francisco - SF9 | 2026-11-25 | [Apply](https://www.samsara.com/company/careers/roles/8358786?gh_jid=8358786) |
 | Schonfeld | 2027 Data Science Intern | New York, New York, United States | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) |
