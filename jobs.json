@@ -554,16 +554,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, Intern (Summer)",
-  "location": "San Francisco, Seattle, New York City",
-  "url": "https://stripe.com/jobs/search?gh_jid=8128745",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130805",
   "term": "Summer 2027",
   "added": "2026-11-25"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, Intern (Summer)",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130805",
+  "location": "San Francisco, Seattle, New York City",
+  "url": "https://stripe.com/jobs/search?gh_jid=8128745",
   "term": "Summer 2027",
   "added": "2026-11-25"
  },
@@ -962,16 +962,16 @@
  {
   "company": "Rocket Lab Corporation",
   "title": "Ground Systems Engineering Intern Spring 2027",
-  "location": "Middle River, MD",
-  "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8042094003",
+  "location": "Stennis Space Center, MS",
+  "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8007204003",
   "term": "Other terms",
   "added": "2026-11-25"
  },
  {
   "company": "Rocket Lab Corporation",
   "title": "Ground Systems Engineering Intern Spring 2027",
-  "location": "Stennis Space Center, MS",
-  "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8007204003",
+  "location": "Middle River, MD",
+  "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8042094003",
   "term": "Other terms",
   "added": "2026-11-25"
  },
@@ -994,14 +994,6 @@
  {
   "company": "Rocket Lab Corporation",
   "title": "Systems Engineering Intern Summer 2027",
-  "location": "Chantilly, VA",
-  "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990272003",
-  "term": "Summer 2027",
-  "added": "2026-11-25"
- },
- {
-  "company": "Rocket Lab Corporation",
-  "title": "Systems Engineering Intern Summer 2027",
   "location": "Pasadena, CA",
   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990138003",
   "term": "Summer 2027",
@@ -1012,6 +1004,14 @@
   "title": "Systems Engineering Intern Summer 2027",
   "location": "Tucson, AZ",
   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990270003",
+  "term": "Summer 2027",
+  "added": "2026-11-25"
+ },
+ {
+  "company": "Rocket Lab Corporation",
+  "title": "Systems Engineering Intern Summer 2027",
+  "location": "Chantilly, VA",
+  "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990272003",
   "term": "Summer 2027",
   "added": "2026-11-25"
  },
@@ -1849,14 +1849,6 @@
  },
  {
   "company": "NBCUniversal",
-  "title": "NBC News Group Technology Internships – Summer 2027",
-  "location": "New York, NY, United States",
-  "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160731770",
-  "term": "Summer 2027",
-  "added": "2026-11-25"
- },
- {
-  "company": "NBCUniversal",
   "title": "Advertising & Partnerships: Data Science Internship – Summer 2027",
   "location": "New York, NY, United States",
   "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160689930",
@@ -1958,5 +1950,21 @@
   "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Intern---Software-Asset-Management-Analyst_JR0289430",
   "term": "Other terms",
   "added": "2026-11-25"
+ },
+ {
+  "company": "Hp",
+  "title": "Software Internship Roles - HP Solutions (HPS)",
+  "location": "Spring Texas United States of America",
+  "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Internship-Roles---HP-Solutions--HPS-_3167906-1",
+  "term": "Other terms",
+  "added": "2026-11-27"
+ },
+ {
+  "company": "Hp",
+  "title": "Personal Systems Engineering Internship",
+  "location": "Spring, Texas, United States of America",
+  "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Personal-Systems-Engineering-Internship_3171404-1",
+  "term": "Other terms",
+  "added": "2026-11-27"
  }
 ]
