@@ -139,7 +139,6 @@ dates and work eligibility vary.
 | NBCUniversal | Media Tech: Cybersecurity, Governance & Security Engineering Internships – Summer 2027 | New York, NY, United States | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160654878) |
 | NBCUniversal | Media Tech: Data, AI & Machine Learning Internships – Summer 2027 | Universal City, CA, United States | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160649935) |
 | NBCUniversal | Media Tech: Data, AI & Machine Learning Internships – Summer 2027 | New York, NY, United States | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160650767) |
-| NBCUniversal | NBC News Group Technology Internships – Summer 2027 | New York, NY, United States | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160731770) |
 | NBCUniversal | NBC Telemundo CT Multiplatform Creative Services Intern - Summer 2027 | Hartford, Connecticut, United States | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000162316389) |
 | NBCUniversal | Software Engineering Internships – Summer 2027 | Universal City, CA, United States | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000161179529) |
 | NBCUniversal | Software Engineering Internships – Summer 2027 | New York, NY, United States | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160659459) |
@@ -154,9 +153,9 @@ dates and work eligibility vary.
 | Rocket Lab Corporation | Fluid Systems Intern Summer 2027 | Long Beach, CA | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986794003) |
 | Rocket Lab Corporation | Ground Systems Engineering Intern Summer 2027 | Middle River, MD | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8042092003) |
 | Rocket Lab Corporation | Ground Systems Engineering Intern Summer 2027 | Stennis Space Center, MS | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8007202003) |
-| Rocket Lab Corporation | Systems Engineering Intern Summer 2027 | Chantilly, VA | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990272003) |
 | Rocket Lab Corporation | Systems Engineering Intern Summer 2027 | Pasadena, CA | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990138003) |
 | Rocket Lab Corporation | Systems Engineering Intern Summer 2027 | Tucson, AZ | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990270003) |
+| Rocket Lab Corporation | Systems Engineering Intern Summer 2027 | Chantilly, VA | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990272003) |
 | Scale AI | Machine Learning Research Intern (Summer 2027) | New York, NY; San Francisco, CA | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4735665005) |
 | Scale AI | Software Engineering Intern (Summer 2027) | San Francisco, CA | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730845005) |
 | ServiceNow | AI Engineering - Assoc Software Engineer Internships - Summer 2027 (Bachelors) | Santa Clara, CALIFORNIA, United States | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000155345889) |
@@ -220,6 +219,8 @@ dates and work eligibility vary.
 | Exa | Software Engineer, Intern | San Francisco, California | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16) |
 | Figma | Data Engineer Intern (2027) | San Francisco, CA • New York, NY | 2026-11-25 | [Apply](https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004) |
 | Hex | AI Engineer Intern | San Francisco | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/hex/f2562cd7-abf2-434b-85ff-0a5016fbf0d6) |
+| Hp | Personal Systems Engineering Internship | Spring, Texas, United States of America | 2026-11-27 | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Personal-Systems-Engineering-Internship_3171404-1) |
+| Hp | Software Internship Roles - HP Solutions (HPS) | Spring Texas United States of America | 2026-11-27 | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Internship-Roles---HP-Solutions--HPS-_3167906-1) |
 | Intel | AI Hardware Engineering Intern | US California Santa Clara | 2026-11-25 | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Hardware-Engineering-Intern_JR0287533) |
 | Intel | Intern – Software Asset Management Analyst | Costa Rica, San Jose | 2026-11-25 | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Intern---Software-Asset-Management-Analyst_JR0289430) |
 | Intel | Research Scientist Intern - Graphics, ML | Virtual US | 2026-11-25 | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525) |
@@ -297,8 +298,8 @@ dates and work eligibility vary.
 | Ramp | Software Engineering Intern, Backend | New York, NY (HQ) | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/ramp/acf6b28d-767f-483f-8ff2-114620cd7e04) |
 | Ramp | Software Engineering Intern, Frontend | New York, NY (HQ) | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74) |
 | Ramp | Software Engineering Intern, iOS | New York, NY (HQ) | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9) |
-| Rocket Lab Corporation | Ground Systems Engineering Intern Spring 2027 | Middle River, MD | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8042094003) |
 | Rocket Lab Corporation | Ground Systems Engineering Intern Spring 2027 | Stennis Space Center, MS | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8007204003) |
+| Rocket Lab Corporation | Ground Systems Engineering Intern Spring 2027 | Middle River, MD | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8042094003) |
 | Roku | Software Engineer Intern, AI Engineering | San Jose, California | 2026-11-25 | [Apply](https://www.weareroku.com/jobs/8258241?gh_jid=8258241) |
 | Samsara | Software Engineering Internship - San Francisco | San Francisco - SF9 | 2026-11-25 | [Apply](https://www.samsara.com/company/careers/roles/8358786?gh_jid=8358786) |
 | Schonfeld | 2027 Data Science Intern | New York, New York, United States | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) |
